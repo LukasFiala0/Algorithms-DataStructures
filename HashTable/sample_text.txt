@@ -1,0 +1,4 @@
+HashSet is a collection designed to store unique elements.
+A HashSet is implemented as a hash table in most programming languages.
+Its operations like add, remove, and contains have an average time complexity of O(1).
+It is often used for tasks such as finding unique words in a text, detecting duplicates, or as a quick lookup structure.
